@@ -10,7 +10,7 @@ The goal of this dashboard is to uncover patterns in customer behavior and highl
 
 - Customer types (Repeat vs One-time)
 - Loyalty Levels
-- Feedback Ratings (1 to 5)
+- Feedback Ratings (1 to 10)
 - Retention and satisfaction gaps
 
 ---
